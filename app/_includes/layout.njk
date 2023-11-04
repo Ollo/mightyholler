@@ -3,14 +3,24 @@
   <head>
     <meta charset='utf-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-
     <title>{{title}}</title>
+    <link rel='preconnect' href='https://fonts.googleapis.com'>
+    <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+    <link href='https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bangers&family=Lora:wght@400;700&display=swap' rel='stylesheet'>
     <link rel='stylesheet' href='/main.css' />
   </head>
   <body>
-    <div class="site-container">
+    <div class='site-container'>
       <main class='content'>
-        {{ content | safe }}
+        <h1 class='title'>Mighty Holler</h1>
+        <p class='tagline'>Just a couple of couples playing tunes...</p>
+        <figure class='main-image'>
+          <img src='../assets/mighty-holler.jpg' />
+        </figure>
+        <div class='page-content'>{{ content | safe }}</div>
+        <footer class="social">
+          <a href="https://www.facebook.com/mighty.holler.band/"><img src="../assets/facebook.png" /></a>
+          <a href="https://www.instagram.com/mighty_holler/"><img src="../assets/instagram.png" /></a>
       </main>
     </div>
   </body>

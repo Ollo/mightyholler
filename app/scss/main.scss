@@ -1,5 +1,97 @@
 @import 'colors';
+@import 'background';
+@import 'responsive';
+%bangers {
+  font-family: 'Bangers', serif;
+}
+%lora {
+  font-family: 'Lora', serif;
+}
 
 body {
-  color: $red;
+  @extend %bg-pattern;
+  @extend %lora;
+  color: darken($walnut, 20%);
+  font-size: 1rem;
+}
+
+.site-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  border-radius: 1rem;
+  margin: 2rem 0;
+  max-width: 90vw;
+  background: rgba(#fff, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  @include breakpoint('tablet') {
+    max-width: 80vw;
+  }
+}
+
+h1, h2, h3, h4 {
+  @extend %bangers;
+  margin: 1.2rem 0;
+}
+
+h1 {
+  font-size: 3rem;
+  @include breakpoint('tablet') {
+    font-size: 4rem;
+  }
+}
+h2 {
+  font-size: 2.8rem;
+
+}
+h3 {
+  font-size: 1.4rem;
+}
+h4 {
+  font-size: 1rem;
+}
+
+.title {
+  font-size: 4rem;
+  color: $rosegold;
+  text-shadow: 1px 1px $beige, 3px 3px $walnut;
+  letter-spacing: 4px;
+  margin: 1rem 0;
+  @include breakpoint('desktop') {
+    font-size: 5rem;
+  }
+}
+
+.tagline {
+  margin: 0 0 1rem;
+}
+
+.main-image img {
+  width: 100%;
+}
+
+.page-content {
+  padding: 1rem 3rem;
+}
+
+hr {
+  color: $walnut;
+  border: 1px dashed;
+}
+
+.social {
+  padding: 1rem 0;
+  display: flex;
+  gap: 5px;
+  img {
+    height: 2rem;
+    width: 2rem;
+  }
 }
