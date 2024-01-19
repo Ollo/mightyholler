@@ -9,11 +9,11 @@ Born out of a love of making music together, Mighty Holler was formed! This grou
 Brandy Ray (vocals, songwriting, mandolin), Elle Michelle (vocals, songwriting, banjo), Joshua Ray (vocals, songwriting, guitar) and Joe Gibb (bass), bring multiple years of performance experience and musical sensibility to their shows and are a delight to enjoy.
 
 
-### Upcomging Shows:
+<!-- ### Upcomging Shows:
 ---
 
 Tico Time Bluegrass Festival
 
 May 17th - 19th 2024
 
-<a class='ticket-button' type='button'>tickets</a>
+<a class='ticket-button' type='button'>tickets</a> -->

@@ -21,6 +21,6 @@ $breakpoints: (
 
   @else {
     @warn "`#{$breakpoint}` is not defined"
-    +"Valid breakpoints are: #{map-keys($breakpoints)}.";
+    + "Valid breakpoints are: #{map-keys($breakpoints)}.";
   }
 }
