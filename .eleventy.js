@@ -9,6 +9,7 @@ module.exports = function (config) {
       input: 'app',
       output: 'dist',
       includes: '_includes',
+      data: "_data",
     },
     passthroughFileCopy: true,
     templateFormats: ['njk', 'md', 'css', 'png', 'jpg', 'jpeg', 'ico', 'svg'],
