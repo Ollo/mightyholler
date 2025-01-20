@@ -14,11 +14,19 @@
   font-family: 'Lora', serif;
 }
 
+html {
+  background-image: url('/assets/mh-bg-ez.gif');
+  background-color: #f093bb;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
 body {
-  @extend %bg-pattern;
+
   @extend %lora;
   color: darken($walnut, 20%);
   font-size: 1rem;
+  margin: 0;
 }
 
 .site-container {
@@ -30,10 +38,7 @@ body {
 
 .content {
   border-radius: 1rem;
-  margin: 2rem 0;
   padding: 2rem;
-  max-width: 60vw;
-  background: rgba(#fff, 0.8);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -42,7 +47,18 @@ body {
   p {
     font-size: 1.3rem;
   }
+  @include breakpoint('tablet') {
+    max-width: 60vw;
+    padding: 8rem 2rem 2rem;
+  }
+}
 
+.hero {
+  .hero-image {
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 0 4px white, 0 0 0 8px $walnut;
+  }
 }
 
 h1, h2, h3, h4 {
@@ -86,12 +102,14 @@ h4 {
 }
 
 .page-content {
-  padding: 1rem 2rem;
-}
+  padding: 2rem 2rem;
+  background: rgba(white, 0.4);
+  border-radius: 4rem;
+  border: 0.25rem rgba($rosegold, 0.8) solid;
 
-hr {
-  color: $walnut;
-  border: 1px dashed;
+  @include breakpoint('tablet') {
+    padding: 2rem 4rem;
+  }
 }
 
 .show {
@@ -120,6 +138,58 @@ hr {
   }
 }
 
+%button {
+  display: block;
+  background: $rosegold;
+  margin-top: 2rem;
+  padding: .5rem 1rem;
+  color: white;
+  border: 4px solid darken($rosegold, 20%);
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: bold;
+
+  &:hover {
+    color: darken(white, 5%);
+    background: darken($rosegold, 10%);
+    border: 4px solid darken($rosegold, 20%);
+  }
+}
+
+.contact-form {
+  input,
+  textarea {
+    border: 4px solid $rosegold;
+    padding: 1rem;
+    font-size: 1rem;
+    color: $rosegold;
+
+    &:focus,
+    &:active {
+      outline: 0;
+      border: 4px solid $rosegold;
+    }
+
+    &::placeholder {
+      color: lighten($rosegold, 15%);
+    }
+  }
+
+  .field {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+  }
+
+  input[type='submit'] {
+    @extend %button;
+  }
+}
+
+.button {
+  @extend %button;
+}
+
 .social {
   padding: 1rem 0;
   display: flex;
@@ -129,3 +199,4 @@ hr {
     width: 2rem;
   }
 }
+

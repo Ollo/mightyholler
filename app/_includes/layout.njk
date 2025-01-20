@@ -12,39 +12,10 @@
   <body>
     <div class='site-container'>
       <main class='content'>
-        <h1 class='title'>Mighty Holler</h1>
-        <h3 class='tagline'>Electric Old Time</h3>
         <figure class='main-image'>
-          <img src='../assets/mighty-holler.jpg' />
+          <img src='../assets/mighty-holler-logo.png' />
         </figure>
         <div class='page-content'>{{ content | safe }}</div>
-
-        <section id="shows" class='panel'>
-          <h2>Upcoming Shows</h2>
-
-          {% for show in shows %}
-          {% if show.active === true %}
-
-          <article class='show'>
-            {% if show.poster %}
-            <figure class='poster'>
-              <img src={{ show.poster }} />
-            </figure>
-            {% endif %}
-            <div class='details'>
-              <h3>{{ show.name }}</h3>
-              <p>{{ show.location }}</p>
-              <p>{{ show.date }}</p>
-              <p>{{ show.time }}</p>
-              {% if show.link %}
-                <p><a class='button' href='{{ show.link }}' target='_blank' rel='noopener noreferrer'>Details</a></p>
-              {% endif %}
-            <div>
-          </article>
-          {% endif %}
-          {% endfor %}
-        </section>
-
         <footer class="social">
           <a href="https://www.facebook.com/mighty.holler.band/"><img src="../assets/facebook.png" /></a>
           <a href="https://www.instagram.com/mighty_holler/"><img src="../assets/instagram.png" /></a>

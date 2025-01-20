@@ -12,7 +12,7 @@ module.exports = function (config) {
       data: "_data",
     },
     passthroughFileCopy: true,
-    templateFormats: ['njk', 'md', 'css', 'png', 'jpg', 'jpeg', 'ico', 'svg'],
+    templateFormats: ['njk', 'md', 'css', 'png', 'jpg', 'jpeg', 'gif', 'ico', 'svg'],
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
   }
