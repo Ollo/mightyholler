@@ -12,17 +12,34 @@ Born out of a love of making music together, Mighty Holler was formed! This grou
 
 ## Upcoming Shows
 
-*4/5/* - **Gold Hill Store** - 7pm-9pm
+*6/20* - **Velvet Elk with Bear Hat** - 8pm
 
-*4/12* - **Cervantes with AJ Lee** - 8pm
+*6/22* - **Aspen Bluegrass Series** - 12pm - 3pm
 
-*4/20* - **Palisade Bluegrass Bash** - 3pm - 6pm
+*7/4* - **Louisville 4th of July Celebration** - 6pm - 7:15pm
 
-*5/3* - **Whiskey in a Teacup Derby Event with Shakedown Street @ Wibby Brewing** - 1pm - 3pm
+*7/5* - **South Park Bluegrass Festival** - 8:15pm
 
-*5/23* - TBA
+*7/20-7/27* - **Bandcamp ~ RockyGrass + Academy**
 
-*5/25* - **McAwesome Fest** - 3pm - 4:30pm
+*7/31-8/3* - **Rhythms on the Rio Festival** - TBA
+
+*8/7* - **Bee Hugger Farm** - 6pm - 9pm
+
+*8/9* - **Gold Hill Inn** - TBA
+
+*8/10* - **Buffalo Rose Bluegrass Brunch** - 10am
+
+*8/15* - **Summit Grill Restaurant and Bar** - 5:30pm - 8:30pm
+
+*8/16* - **Sunspot Winter Park** - 4pm - 7pm
+
+*8/21* - **Columbine Cafe Backyard Bluegrass Bash** - 7pm - 10pm
+
+*8/23* - **Richman Beer Garden** - 4pm - 7pm
+
+*8/30* - **Private Event** - 6pm - 9pm
+
 
 <div class="contact-form">
   <h2>Booking / Contact Us</h2>
