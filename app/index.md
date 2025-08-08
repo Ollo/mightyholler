@@ -12,21 +12,7 @@ Born out of a love of making music together, Mighty Holler was formed! This grou
 
 ## Upcoming Shows
 
-*6/20* - **Velvet Elk with Bear Hat** - 8pm
-
-*6/22* - **Aspen Bluegrass Series** - 12pm - 3pm
-
-*7/4* - **Louisville 4th of July Celebration** - 6pm - 7:15pm
-
-*7/5* - **South Park Bluegrass Festival** - 8:15pm
-
-*7/20-7/27* - **Bandcamp ~ RockyGrass + Academy**
-
-*7/31-8/3* - **Rhythms on the Rio Festival** - TBA
-
-*8/7* - **Bee Hugger Farm** - 6pm - 9pm
-
-*8/9* - **Gold Hill Inn** - TBA
+*8/9* - **Gold Hill Inn** - 6pm - 9pm
 
 *8/10* - **Buffalo Rose Bluegrass Brunch** - 10am
 
@@ -39,6 +25,17 @@ Born out of a love of making music together, Mighty Holler was formed! This grou
 *8/23* - **Richman Beer Garden** - 4pm - 7pm
 
 *8/30* - **Private Event** - 6pm - 9pm
+
+*8/31* - **Tres Litros** - 6pm - 9pm
+
+*9/6* - **Bluegrass in the Bighorns** 
+
+*9/12* - **Private Event** 
+
+*9/13* - **Superior Community Center** - 6pm - 7pm
+
+*9/23* - **Dharma's Garden** - 6pm - 7pm
+
 
 
 <div class="contact-form">
@@ -62,3 +59,6 @@ Born out of a love of making music together, Mighty Holler was formed! This grou
     <button class='button' type="submit">SEND</button>
   </form>
 </div>
+
+## Latest Music
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7oavfXokKq2JsseqbTd3QG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
