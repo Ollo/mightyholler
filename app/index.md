@@ -12,29 +12,19 @@ Born out of a love of making music together, Mighty Holler was formed! This grou
 
 ## Upcoming Shows
 
-*8/9* - **Gold Hill Inn** - 6pm - 9pm
+*2/11* - **10 Mile Hall - Frisco, CO** - 8pm
 
-*8/10* - **Buffalo Rose Bluegrass Brunch** - 10am
+*2/12* - **The Press - Steamboat, CO** - 8pm
 
-*8/15* - **Summit Grill Restaurant and Bar** - 5:30pm - 8:30pm
+*2/13* - **The Glenn - Clark, CO** - 6pm
 
-*8/16* - **Sunspot Winter Park** - 4pm - 7pm
+*2/14* - **Devil's Craft - Winter Park, CO** - 9pm - 12am
 
-*8/21* - **Columbine Cafe Backyard Bluegrass Bash** - 7pm - 10pm
+*2/26* - **The Press - Late Night WWG kickoff - Steamboat, CO** - 9:30pm
 
-*8/23* - **Richman Beer Garden** - 4pm - 7pm
+*3/21* - **Goosetown Station - Golden, CO** - 6:30pm
 
-*8/30* - **Private Event** - 6pm - 9pm
-
-*8/31* - **Tres Litros** - 6pm - 9pm
-
-*9/6* - **Bluegrass in the Bighorns** 
-
-*9/12* - **Private Event** 
-
-*9/13* - **Superior Community Center** - 6pm - 7pm
-
-*9/23* - **Dharma's Garden** - 6pm - 7pm
+*8/29* - **Cactus Jacks - Evergreen, CO** - 3pm - 6pm
 
 
 
