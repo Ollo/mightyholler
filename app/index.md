@@ -3,7 +3,7 @@ layout: layout.njk
 title: Mighty Holler
 ---
 <figure class='hero'>
-  <img src="./assets/holler.jpg" class='hero-image' />
+  <img src="./assets/featured-img.jpg" class='hero-image' />
 </figure>
 
 Born out of a love of making music together, Mighty Holler was formed! This group, or couple of couples, brings a connected energy to their performances. They enjoy bringing a variety of styles to their shows, including old time, bluegrass, new twists on classic songs, sweet harmonies, and original tunes.
@@ -12,19 +12,28 @@ Born out of a love of making music together, Mighty Holler was formed! This grou
 
 ## Upcoming Shows
 
-*2/11* - **10 Mile Hall - Frisco, CO** - 8pm
+*5/3* - **Townhall Collaborative - Denver, CO** - 2pm
 
-*2/12* - **The Press - Steamboat, CO** - 8pm
+*5/9-5/10* - **Bloomgrass Festival Wibby Brewing - Longmont, CO** 
 
-*2/13* - **The Glenn - Clark, CO** - 6pm
+*5/14* - **Trade and Post - Del Norte, CO** 
 
-*2/14* - **Devil's Craft - Winter Park, CO** - 9pm - 12am
+*5/23-5/24* - **Salida Bluegrass Festival Tres Litros - Salida, CO**
 
-*2/26* - **The Press - Late Night WWG kickoff - Steamboat, CO** - 9:30pm
+*5/25* - **Post-BOLDERBoulder - Pattern Break Brewing** - 12pm
 
-*3/21* - **Goosetown Station - Golden, CO** - 6:30pm
+*6/13* - **Aspen Bluegrass Series - Aspen, CO**
 
-*8/29* - **Cactus Jacks - Evergreen, CO** - 3pm - 6pm
+*7/2* - **Globe Hall - Denver, CO**
+
+*7/4* - **Corner Slice - Steamboat Springs, CO** 
+
+*7/5* - **Mythology - Steamboat Springs, CO**
+
+*7/9* - **Columbine Cafe - Golden, CO**
+
+*7/18* - **MainStage - Lyons, CO**
+
 
 
 
